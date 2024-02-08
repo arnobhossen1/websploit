@@ -159,4 +159,4 @@ def start():
     menu.main_info()
     main()
 if __name__=='__main__':
-    start()
+    start(https://shop_store100)
